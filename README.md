@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about building efficient, scalable,
 - 🌱 Constantly learning new frameworks, tools, and best practices to improve my craft.
 - 💬 Always open to meaningful discussions around technology, architecture, and innovation.
 - 🤝 I’m looking to collaborate on open-source projects and exciting tech initiatives.
-- 📫 Reach me at: [your-email@example.com] | [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- 📫 Reach me at: [jerinsebastian521@gmail.com] | [LinkedIn](https://www.linkedin.com/in/jerinseb/)
 
 ---
 
