@@ -65,7 +65,6 @@ Hey! I'm **Jerin Sebastian**, a full-stack developer based in Kerala, India. I e
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jerinsebastian521&theme=tokyonight&hide_border=true)
 
 </div>
 
