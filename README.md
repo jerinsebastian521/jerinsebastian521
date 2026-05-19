@@ -1,44 +1,89 @@
-# Hi there, I'm Jerin Sebastian 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm passionate about building efficient, scalable, and user-focused applications.
+```
+     ██╗███████╗██████╗ ██╗███╗   ██╗    ███████╗███████╗██████╗
+     ██║██╔════╝██╔══██╗██║████╗  ██║    ██╔════╝██╔════╝██╔══██╗
+     ██║█████╗  ██████╔╝██║██╔██╗ ██║    ███████╗█████╗  ██████╔╝
+██   ██║██╔══╝  ██╔══██╗██║██║╚██╗██║    ╚════██║██╔══╝  ██╔══██╗
+╚█████╔╝███████╗██║  ██║██║██║ ╚████║    ███████║███████╗██████╔╝
+ ╚════╝ ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝   ╚══════╝╚══════╝╚═════╝
+```
 
----
+### Full-Stack Developer · Python Enthusiast · Open Source Contributor
 
-## 👨‍💻 About Me
-- 🔭 I’m currently working on enhancing my skills in modern web development and backend technologies.
-- 🌱 Constantly learning new frameworks, tools, and best practices to improve my craft.
-- 💬 Always open to meaningful discussions around technology, architecture, and innovation.
-- 🤝 I’m looking to collaborate on open-source projects and exciting tech initiatives.
-- 📫 Reach me at: [jerinsebastian521@gmail.com] | [LinkedIn](https://www.linkedin.com/in/jerinseb/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jerinseb-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerinseb/)
+[![Email](https://img.shields.io/badge/Email-jerinsebastian521%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jerinsebastian521@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-jerinsebastian521-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jerinsebastian521)
 
----
-
-## 🛠️ Technologies & Tools
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+</div>
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jerinsebastian521&show_icons=true&theme=tokyonight" alt="Jerin's GitHub stats"/>
-</p>
+## About Me
+
+Hey! I'm **Jerin Sebastian**, a full-stack developer based in Kerala, India. I enjoy turning ideas into clean, functional applications — from crafting intuitive frontends to designing robust backend systems.
+
+- 🔭 &nbsp;Currently deepening my expertise in **modern web development** and **backend architecture**
+- 🌱 &nbsp;Always exploring new frameworks, tools, and engineering best practices
+- 💡 &nbsp;Interested in **system design**, **API development**, and **developer tooling**
+- 🤝 &nbsp;Open to collaborating on **open-source projects** and innovative tech initiatives
+- 🧠 &nbsp;Firm believer that readable, maintainable code is the best code
 
 ---
 
-## 🚀 Let's Connect!
-Feel free to reach out if you want to collaborate or just chat about tech!
+## 🛠 Tech Stack
 
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<!---
-jerinsebastian521/jerinsebastian521 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Frameworks & Libraries**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Databases & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=jerinsebastian521&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerinsebastian521&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jerinsebastian521&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to chat about tech, collaborate on something interesting, or just exchange ideas. Don't hesitate to reach out!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerinseb/)
+[![Email Me](https://img.shields.io/badge/Send_an_Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerinsebastian521@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>⚡ Building things one commit at a time.</sub>
+</div>
